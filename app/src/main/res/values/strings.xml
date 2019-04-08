@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="string_txtv_nombre">Armando</string>
+    <string name="string_txtv_telefono">5522773612</string>
+    <string name="string_txtv_correo">jarodriguezvera@mexiti.com</string>
+    <string name="mensajeenviado">Este mensaje fue enviado desde mi app</string>
+    <string name="mensajecontacto">Mi mensaje de contacto</string>
+    <string name="mensajeenviando">Enviar correo...</string>
+    <string name="string_txtv_correo">jarodriguezvera@mexiti.com</string>
+    <string name="string_txtv_correo">jarodriguezvera@mexiti.com</string>
+</resources>
